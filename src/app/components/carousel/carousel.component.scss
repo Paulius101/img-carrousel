@@ -1,0 +1,11 @@
+section {
+  height: 100vh;
+  scroll-snap-align: start;
+  background-color: rgb(67, 91, 175);
+}
+
+img {
+  max-width: 50vw;
+  height: 90vh;
+  margin-left: 25%;
+}
